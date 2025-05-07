@@ -77,23 +77,22 @@ MBTI : ENFP
 
 # 3. 파이썬이 뭐고, 개발은 어떻게 해요?
 
-<p align="left">
-  <img src="src/python.png" width="300"/>
-</p>
-
 ## 파이썬이 뭐예요?
+
+<p align="left">
+  <img src="src/python.png" width="200"/>
+</p>
 
 - 1991년 귀도 반 로섬이 만듦
 - 직관적이고 쉬운 문법
 - 다양한 라이브러리
 - 속도는 조금 느리다..
 
+## 깃허브가 뭐예요?
+
 <p align="left">
   <img src="src/github.png" width="300"/>
 </p>
-
-
-## 깃허브가 뭐예요?
 
 - Git + Hub
 - Git은 버전 관리 도구 → 이걸 좀 더 편하게 쓸 수 있도록 만든 플랫폼 : 깃허브
@@ -111,12 +110,11 @@ MBTI : ENFP
     - Pull Request : Branch를 Main으로 합칠 때
     - Issue : 버그/할 일 등 적어놓는 용도
 
+## 가상환경이 뭐예요?
+
 <p align="center">
   <img src="src/venv.jpg" width="300"/>
 </p>
-
-
-## 가상환경이 뭐예요?
 
 - 가상환경 : 독립된 파이썬 실행 환경
 - 프로젝트마다 알맞는 라이브러리 버전 쓰도록 해줌!
