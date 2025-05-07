@@ -124,8 +124,13 @@ MBTI : ENFP
 # 4. 개발 환경을 구축해보자!
 
 ## 파이썬 다운로드
-<p><img src="src/python/1.png", width="400"></p>
+<p><img src="src/python/1.PNG", width="400"></p>
 <a href="https://python.org">파이썬 다운로드</a>로 이동해 다운로드하기
+
+<p><img src="src/python/2.PNG", width="400"></p>
+!! 중요 !! Add Path 꼭 해주기!
+
+
 
 - VS code 다운로드
 - Github Desktop 다운로드
