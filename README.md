@@ -2,6 +2,10 @@
 
 ## 강의자 정보
 
+<p align="left">
+  <img src="src/mypic.jpg" width="300"/>
+</p>
+
 이름 : 김희우
 
 학번 : 24학번
