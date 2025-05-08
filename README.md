@@ -210,7 +210,7 @@ myenv\Scripts\activate
 (선택) .gitignore 만들기 -> 최상위 디렉터리에 파일 만들기
 ```gitignore:.gitignore
 # 가상환경
-venv/
+myenv/
 .env/
 
 # 파이썬 캐시
@@ -245,7 +245,15 @@ Ctrl + Shift + P로 명령 팔레트 열기<br>
 
 ### 4. VS code에서 실행하기
 
-실행할 파일을 열고 F5를 눌러 실행하기
+실행할 파일을 열고 F5를 누르기<br>
+-> Python Debugger
+-> Python file
+
+### 5. Git Commit + Push
+
+Github Desktop을 열고 커밋 메시지 작성<br>
+-> 푸시 누르기
+<p><img src="src/exe/10.png"></p>
 
 ---
 
