@@ -146,6 +146,12 @@ Pylance Extension 설치하기
 (선택) Color theme 고르기 (추천 : One Dark Pro)
 <p><img src="src/vs/5.PNG", width="300"></p>
 
+(선택) Font size 조절하기
+
+-> CTRL + , = 설정 열기
+-> Font 검색
+-> Font Size 변경하기!
+
 ## Github Desktop 다운로드
 
 ## 실행방법 정리
