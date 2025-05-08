@@ -179,14 +179,35 @@ Github Desktop에서 Publish repository 실행 (기본값으로 실행)
 
 ---
 
+### 2. 가상환경 설정
 CMD 실행<br>
 (Win + R -> cmd + Enter)
 <p><img src="src/exe/4.png"></p>
 
-가상환경 만들기 (myenv는 마음대로 바꾸기!)
-```bat python -m venv myenv```
+가상환경 만들기 (myenv는 마음대로 바꾸기!)<br>
+```bash
+python -m venv myenv
+```
 
+(선택) 필요한 라이브러리 설치<br>
+```bash
+ pip install pygame
+ ```
 
+(선택) .gitignore 만들기
+```gitignore:.gitignore
+# 가상환경
+venv/
+.env/
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+```
+
+### 3.
 ---
 
 # 5. 파이썬 개발 공부법
