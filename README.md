@@ -123,14 +123,14 @@ MBTI : ENFP
 
 # 4. 개발 환경을 구축해보자!
 
-## 파이썬 다운로드
+## a. 파이썬 다운로드
 <a href="https://python.org">파이썬 다운로드</a>로 이동해 다운로드하기
 <p><img src="src/python/1.PNG", width="400"></p>
 
 !! 중요 !! Add Path 꼭 해주기!
 <p><img src="src/python/2.PNG", width="400"></p>
 
-## VS code 다운로드
+## b. VS code 다운로드
 <a href="https://code.visualstudio.com">Visual Studio Code 다운로드</a>로 이동해 다운로드하기
 <p><img src="src/vs/1.PNG", width="400"></p>
 
@@ -152,7 +152,7 @@ Pylance Extension 설치하기
 -> Font 검색<br>
 -> Font Size 변경하기!
 
-## Github Desktop 다운로드
+## c. Github Desktop 다운로드
 
 <a href="https://github.com/">깃허브 바로가기</a>로 이동해 깃허브 회원가입 하기
 <p><img src="src/git/1.PNG"></p>
@@ -163,11 +163,11 @@ Pylance Extension 설치하기
 Github Desktop에서 Github로 로그인하기
 <p><img src="src/git/3.PNG"></p>
 
-## 실행방법 정리
+## d. 실행방법 정리
 
 - "Test" 이름의 프로젝트를 생성하는 과정!
 
-### 1. 프로젝트 폴더 생성
+### 프로젝트 폴더 생성
 
 Github Desktop에서 Repo 생성<br>
 (Add -> Create new repository)
@@ -179,10 +179,18 @@ Github Desktop에서 Publish repository 실행 (기본값으로 실행)
 
 ---
 
-### 2. 가상환경 설정
+### 가상환경 설정
 CMD 실행<br>
 (Win + R -> cmd + Enter)
 <p><img src="src/exe/4.png"></p>
+
+프로젝트 폴더로 이동해 경로 복사
+<p><img src="src/exe/5.png"></p>
+
+CMD에서 프로젝트 폴더로 이동하기
+```bash
+cd C:\???\Test
+```
 
 가상환경 만들기 (myenv는 마음대로 바꾸기!)<br>
 ```bash
@@ -194,7 +202,7 @@ python -m venv myenv
  pip install pygame
  ```
 
-(선택) .gitignore 만들기
+(선택) .gitignore 만들기 -> 최상위 디렉터리에 파일 만들기
 ```gitignore:.gitignore
 # 가상환경
 venv/
@@ -207,7 +215,28 @@ __pycache__/
 *.pyd
 ```
 
-### 3.
+### 3. VS code 설정
+
+VS code 실행하기
+<p><img src="src/exe/6.png"></p>
+
+File - Open Folder... - 프로젝트 폴더 선택하기
+<p><img src="src/exe/7.png"></p>
+
+New File - 1.py 만들기
+<p><img src="src/exe/8.png"></p>
+
+코딩하기!!
+```python:1.py
+print("Hello, World!")
+```
+
+인터프리터 선택하기 : <br>
+Ctrl + Shift + P로 명령 팔레트 열기<br>
+-> inter 검색하기
+-> 위에서 만든 가상환경 선택하기
+
+
 ---
 
 # 5. 파이썬 개발 공부법
