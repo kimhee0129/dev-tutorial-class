@@ -124,17 +124,31 @@ MBTI : ENFP
 # 4. 개발 환경을 구축해보자!
 
 ## 파이썬 다운로드
-<p><img src="src/python/1.PNG", width="400"></p>
 <a href="https://python.org">파이썬 다운로드</a>로 이동해 다운로드하기
+<p><img src="src/python/1.PNG", width="400"></p>
 
-<p><img src="src/python/2.PNG", width="400"></p>
 !! 중요 !! Add Path 꼭 해주기!
+<p><img src="src/python/2.PNG", width="400"></p>
 
+## VS code 다운로드
+<a href="https://code.visualstudio.com">Visual Studio Code 다운로드</a>로 이동해 다운로드하기
+<p><img src="src/vs/1.PNG", width="400"></p>
 
+전부 기본 설정 + 동의 후 설치하기
+<p><img src="src/vs/2.PNG", width="400"></p>
 
-- VS code 다운로드
-- Github Desktop 다운로드
-- 실행방법 정리
+Python Extension 설치하기
+<p><img src="src/vs/3.PNG", width="300"></p>
+
+Pylance Extension 설치하기
+<p><img src="src/vs/4.PNG", width="300"></p>
+
+(선택) Color theme 고르기 (추천 : One Dark Pro)
+<p><img src="src/vs/5.PNG", width="300"></p>
+
+## Github Desktop 다운로드
+
+## 실행방법 정리
 
 ---
 
