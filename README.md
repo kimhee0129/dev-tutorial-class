@@ -253,8 +253,8 @@ Ctrl + Shift + P로 명령 팔레트 열기<br>
 
 ## A) 파이썬 기초 문법 공부하기
 
-- 위키독스 점프 투 파이썬
-- 백준
+- wikidocs -> <a href="https://wikidocs.net/book/1">점프 투 파이썬</a>
+- <a href="https://www.acmicpc.net/">백준</a>
 - 공부한 내용 바탕으로 뭔가를 만들어보면 실력 매우 상승!
 
 ## B) 파이썬 라이브러리 공부
