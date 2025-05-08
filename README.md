@@ -183,8 +183,8 @@ CMD 실행<br>
 (Win + R -> cmd + Enter)
 <p><img src="src/exe/4.png"></p>
 
-<pre> ```bat
-python -m venv myenv``` </pre>
+가상환경 만들기
+<pre> ```python -m venv *myenv*``` </pre>
 ---
 
 # 5. 파이썬 개발 공부법
