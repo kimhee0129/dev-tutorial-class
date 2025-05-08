@@ -177,8 +177,6 @@ Github Desktop에서 Repo 생성<br>
 Github Desktop에서 Publish repository 실행 (기본값으로 실행)
 <p><img src="src/exe/3.PNG"></p>
 
----
-
 ### 가상환경 설정
 CMD 실행<br>
 (Win + R -> cmd + Enter)
@@ -220,7 +218,7 @@ __pycache__/
 *.pyd
 ```
 
-### 3. VS code 설정
+### VS code 설정
 
 VS code 실행하기
 <p><img src="src/exe/6.png"></p>
@@ -245,13 +243,13 @@ Ctrl + Shift + P로 명령 팔레트 열기<br>
 -> 위에서 만든 가상환경 선택하기
 <p><img src="src/exe/9.png"></p>
 
-### 4. VS code에서 실행하기
+### VS code에서 실행하기
 
 실행할 파일을 열고 F5를 누르기<br>
 -> Python Debugger
 -> Python file
 
-### 5. Git Commit + Push
+### Git Commit + Push
 
 Github Desktop을 열고 커밋 메시지 작성<br>
 -> 푸시 누르기
