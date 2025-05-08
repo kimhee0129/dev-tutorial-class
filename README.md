@@ -148,13 +148,36 @@ Pylance Extension 설치하기
 
 (선택) Font size 조절하기
 
--> CTRL + , = 설정 열기
--> Font 검색
+-> CTRL + , = 설정 열기<br>
+-> Font 검색<br>
 -> Font Size 변경하기!
 
 ## Github Desktop 다운로드
 
+<a href="https://github.com/">깃허브 바로가기</a>로 이동해 깃허브 회원가입 하기
+<p><img src="src/git/1.PNG"></p>
+
+<a href="https://desktop.github.com/download/">Github Desktop 다운로드</a>로 이동해 다운로드하기
+<p><img src="src/git/2.PNG"></p>
+
+Github Desktop에서 Github로 로그인하기
+<p><img src="src/git/3.PNG"></p>
+
 ## 실행방법 정리
+
+- "Test" 이름의 프로젝트를 생성하는 과정!
+
+### 1. 프로젝트 폴더 생성
+
+Github Desktop에서 Repo 생성<br>
+(Add -> Create new repository)
+<p><img src="src/exe/1.PNG"></p>
+<p><img src="src/exe/2.PNG"></p>
+
+Github Desktop에서 Publish repository 실행 (기본값으로 실행)
+<p><img src="src/exe/3.PNG"></p>
+
+
 
 ---
 
