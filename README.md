@@ -177,8 +177,13 @@ Github Desktop에서 Repo 생성<br>
 Github Desktop에서 Publish repository 실행 (기본값으로 실행)
 <p><img src="src/exe/3.PNG"></p>
 
+---
 
+CMD 실행<br>
+(Win + R -> cmd + Enter)
+<p><img src="src/exe/4.PNG"></p>
 
+<pre> ```cmd python -m venv myenv ``` </pre>
 ---
 
 # 5. 파이썬 개발 공부법
