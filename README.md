@@ -183,7 +183,7 @@ CMD 실행<br>
 (Win + R -> cmd + Enter)
 <p><img src="src/exe/4.PNG"></p>
 
-<pre> ```cmd python -m venv myenv ``` </pre>
+<pre> ```cmd python -m venv myenv``` </pre>
 ---
 
 # 5. 파이썬 개발 공부법
