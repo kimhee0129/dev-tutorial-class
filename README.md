@@ -181,9 +181,10 @@ Github Desktop에서 Publish repository 실행 (기본값으로 실행)
 
 CMD 실행<br>
 (Win + R -> cmd + Enter)
-<p><img src="src/exe/4.PNG"></p>
+<p><img src="src/exe/4.png"></p>
 
-<pre> ```cmd python -m venv myenv``` </pre>
+<pre> ```bat
+python -m venv myenv``` </pre>
 ---
 
 # 5. 파이썬 개발 공부법
