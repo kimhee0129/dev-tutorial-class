@@ -197,6 +197,11 @@ cd C:\???\Test
 python -m venv myenv
 ```
 
+가상환경 활성화하기
+```bash
+myenv\Scripts\activate
+```
+
 (선택) 필요한 라이브러리 설치<br>
 ```bash
  pip install pygame
@@ -233,9 +238,14 @@ print("Hello, World!")
 
 인터프리터 선택하기 : <br>
 Ctrl + Shift + P로 명령 팔레트 열기<br>
--> inter 검색하기
+-> inter 검색하기<br>
+-> Python : Select Interpreter 선택하기
 -> 위에서 만든 가상환경 선택하기
+<p><img src="src/exe/9.png"></p>
 
+### 4. VS code에서 실행하기
+
+실행할 파일을 열고 F5를 눌러 실행하기
 
 ---
 
